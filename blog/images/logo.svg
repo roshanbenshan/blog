@@ -1,0 +1,16 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- 优雅的装饰线条 -->
+  <path d="M20,50 Q90,20 150,50 T280,50" fill="none" stroke="#D4AF37" stroke-width="2.5" opacity="0.3"/>
+  <path d="M20,60 Q90,30 150,60 T280,60" fill="none" stroke="#D4AF37" stroke-width="2" opacity="0.2"/>
+  <path d="M20,70 Q90,40 150,70 T280,70" fill="none" stroke="#D4AF37" stroke-width="1.5" opacity="0.1"/>
+  
+  <!-- 英文名称 - 加大加粗 -->
+  <text x="150" y="40" font-family="Poppins" font-weight="600" font-size="32" text-anchor="middle" fill="#000000">
+    Tsai Monjet
+  </text>
+  
+  <!-- 中文名称 - 加大并调整位置 -->
+  <text x="150" y="75" font-family="STKaiti, KaiTi" font-size="28" text-anchor="middle" fill="#D4AF37">
+    蔡梦杰
+  </text>
+</svg> 
